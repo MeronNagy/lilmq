@@ -1,0 +1,13 @@
+[book]
+authors = ["MeronNagy"]
+language = "en"
+multilingual = false
+src = "src"
+title = "LinkedIn lemon.markets Question"
+
+[rust]
+edition = "2021"
+
+[output.html]
+git-repository-url = "https://github.com/MeronNagy/lilmq"
+edit-url-template = "https://github.com/MeronNagy/lilmq/edit/main/docs/{path}"
